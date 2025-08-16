@@ -5,6 +5,8 @@ This repository hosts an Anime Filler Episodes API built with Node.js, Express.j
 > [!note]
 > This fork was slightly modified to work better with cloudflare workers
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/JMcrafter26/anime-filler-episodes-api/)
+
 ## Features
 
 - Retrieve filler episode information for anime series.
