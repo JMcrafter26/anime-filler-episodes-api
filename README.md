@@ -2,6 +2,9 @@
 
 This repository hosts an Anime Filler Episodes API built with Node.js, Express.js, Axios, and Cheerio. The API allows users to retrieve filler episode information for anime series by providing the series name in the URL.
 
+> [!note]
+> This fork was slightly modified to work better with cloudflare workers
+
 ## Features
 
 - Retrieve filler episode information for anime series.
